@@ -38,7 +38,7 @@ Logs use the **JSON Lines** format (one JSON object per line): easy to read with
 
 ## Requirements
 
-- **Python 3.9 or newer**
+- **Python 3.10 or newer**
 - The **`paramiko`** library (installed automatically by `pip install .`)
 - For the `stats` command alone: no dependencies
 

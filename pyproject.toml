@@ -7,7 +7,7 @@ name = "sshpot"
 version = "1.0.0"
 description = "Small low-interaction SSH honeypot with statistics"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 dependencies = ["paramiko>=3.0"]
 
